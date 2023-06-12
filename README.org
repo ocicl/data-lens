@@ -1,0 +1,10 @@
+* data-lens
+
+Functional utilities for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/fiddlerwoaroof/data-lens.git   |
+| commit  | 903c0aa  |
+| systems | data-lens |
+|---------+-------------------------------------------|
+
