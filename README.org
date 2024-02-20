@@ -4,6 +4,6 @@ Functional utilities for Common Lisp
 
 |---------+-----------------------------------------------------|
 | source  | git:https://github.com/fiddlerwoaroof/data-lens.git |
-| commit  | 274af53                                             |
+| commit  | f10b94f                                             |
 | systems | data-lens                                           |
 |---------+-----------------------------------------------------|
